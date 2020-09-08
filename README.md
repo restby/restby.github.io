@@ -1,1 +1,1 @@
-# restby.github.io
+https://restby.github.io/rsschool-cv/cv
